@@ -11,3 +11,6 @@ Available on the [Chrome Web Store](https://chrome.google.com/webstore/detail/qu
 #### Dark theme
 
 <img src="https://cloud.githubusercontent.com/assets/9059977/10125854/0ab843ca-6551-11e5-8e6b-44889de8fd71.png" height="400" />
+
+#### Usage
+<img src="https://github.com/Autokrator/autokrator.github.io/raw/master/images/quicklinks.gif" height="400" />
